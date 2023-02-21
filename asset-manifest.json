@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee41023c.css",
+    "main.js": "/static/js/main.9fec3c17.js",
+    "static/media/bg-img.jpg": "/static/media/bg-img.dd95f6fbf13086c12f7d.jpg",
+    "static/media/catamaran-v17-latin-800.woff": "/static/media/catamaran-v17-latin-800.3ad00682e3ed687ac9ef.woff",
+    "static/media/catamaran-v17-latin-700.woff": "/static/media/catamaran-v17-latin-700.f258c2e60180049295df.woff",
+    "static/media/catamaran-v17-latin-600.woff": "/static/media/catamaran-v17-latin-600.9226b9adf1cdc3c60063.woff",
+    "static/media/catamaran-v17-latin-regular.woff": "/static/media/catamaran-v17-latin-regular.59a989033c506439daad.woff",
+    "static/media/catamaran-v17-latin-200.woff": "/static/media/catamaran-v17-latin-200.5f78887c413cd5c42167.woff",
+    "static/media/catamaran-v17-latin-300.woff": "/static/media/catamaran-v17-latin-300.d3a44ee922b5a5ffdae5.woff",
+    "static/media/catamaran-v17-latin-500.woff": "/static/media/catamaran-v17-latin-500.415e26d3213500fbf697.woff",
+    "static/media/catamaran-v17-latin-900.woff": "/static/media/catamaran-v17-latin-900.0f4939523a1f7fe74b3e.woff",
+    "static/media/catamaran-v17-latin-100.woff": "/static/media/catamaran-v17-latin-100.3d2425bd982f20a275b6.woff",
+    "static/media/catamaran-v17-latin-800.woff2": "/static/media/catamaran-v17-latin-800.6e904c2fa888cfe7fe4c.woff2",
+    "static/media/catamaran-v17-latin-700.woff2": "/static/media/catamaran-v17-latin-700.3ef2adc35db47b3d5291.woff2",
+    "static/media/catamaran-v17-latin-600.woff2": "/static/media/catamaran-v17-latin-600.a4727d0b9bf47809156b.woff2",
+    "static/media/catamaran-v17-latin-regular.woff2": "/static/media/catamaran-v17-latin-regular.71b3176b1434fd5fe41d.woff2",
+    "static/media/catamaran-v17-latin-300.woff2": "/static/media/catamaran-v17-latin-300.ff76a4c1da2e95a18ef2.woff2",
+    "static/media/catamaran-v17-latin-200.woff2": "/static/media/catamaran-v17-latin-200.48bba519b7f8dc8526f2.woff2",
+    "static/media/catamaran-v17-latin-500.woff2": "/static/media/catamaran-v17-latin-500.3b7ea92e1add59f91cd1.woff2",
+    "static/media/catamaran-v17-latin-900.woff2": "/static/media/catamaran-v17-latin-900.9da46ff03ef014d7edb2.woff2",
+    "static/media/catamaran-v17-latin-100.woff2": "/static/media/catamaran-v17-latin-100.6800d89a0eca2aadb410.woff2",
+    "index.html": "/index.html",
+    "main.ee41023c.css.map": "/static/css/main.ee41023c.css.map",
+    "main.9fec3c17.js.map": "/static/js/main.9fec3c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee41023c.css",
+    "static/js/main.9fec3c17.js"
+  ]
+}
